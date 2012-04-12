@@ -1,0 +1,4 @@
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Release\ResolveAssemblyReference.cache
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Release\App.g.i.cs
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Release\MainPage.g.i.cs
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Release\WP7StatsTracker.g.resources

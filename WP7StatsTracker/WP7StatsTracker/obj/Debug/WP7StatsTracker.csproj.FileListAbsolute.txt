@@ -1,0 +1,47 @@
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\App.g.i.cs
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\MainPage.g.i.cs
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\ApplicationIcon.png
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Background.png
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.dll
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.pdb
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.g.resources
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.dll
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.pdb
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\AppManifest.xaml
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.xap
+C:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\XapCacheFile.xml
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\ApplicationIcon.png
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Background.png
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\AppManifest.xaml
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.xap
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\ResolveAssemblyReference.cache
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\App.g.i.cs
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\MainPage.g.i.cs
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\XapCacheFile.xml
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.dll
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.pdb
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.g.resources
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.dll
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.pdb
+Z:\Source Code\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\ApplicationIcon.png
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Background.png
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.dll
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.pdb
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\AppManifest.xaml
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\WP7StatsTracker.xap
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\sc\WP7StatsTracker\WP7StatsTracker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\App.g.i.cs
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\MainPage.g.i.cs
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.g.resources
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.dll
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\WP7StatsTracker.pdb
+C:\sc\WP7StatsTracker\WP7StatsTracker\obj\Debug\XapCacheFile.xml
